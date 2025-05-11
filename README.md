@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hariprasath Ravichandran
+# Hi, I'm Hariprasath Ravichandran
 
 Platform Engineer at CData | 🏙️ Based in Bangalore, India
 
