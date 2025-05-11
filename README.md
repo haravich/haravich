@@ -36,9 +36,8 @@ Simulate email exchanges for testing purposes with this Dockerized fake SMTP ser
 
 ## 📈 GitHub Stats
 
-![Hariprasath's GitHub stats](https://github-readme-stats.vercel.app/api?username=haravich&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haravich&layout=compact)
+![Hariprasath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haravich&show_icons=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haravich&layout=compact&count_private=true)
 
 ---
 
@@ -47,6 +46,14 @@ Simulate email exchanges for testing purposes with this Dockerized fake SMTP ser
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Alpine](https://img.shields.io/badge/Alpine-0D597F?logo=alpinelinux&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![FluxCD](https://img.shields.io/badge/FluxCD-0069ff?logo=flux&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-FFD500?logo=gnu-bash&logoColor=black)
 
 ---
